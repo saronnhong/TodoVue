@@ -1,7 +1,7 @@
 # VueJS Todo List
 
 ## Overview
-Todo List is a Vue Front End App that is able to Add and Delete tasks. The App makes GET and POST requests using Axios to https://jsonplaceholder.typicode.com/todos to simulate to real back end. 
+Todo List is a Vue Front End App that is able to Add and Delete tasks. The App makes GET and POST requests using Axios to https://jsonplaceholder.typicode.com/todos to simulate to real back end. Followed guide from https://www.youtube.com/watch?v=Wy9q22isx3U
 
 ## Technologies
 The Eat-Da-Burger app was created using these technologies
